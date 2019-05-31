@@ -1,0 +1,62 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<html>
+<body>
+<div id="header">
+    <form method="POST" id="nameform" action="javascript:void(null);" onsubmit="login()">
+        <input id="name" name="name" value="" style="font-size:medium" type="text">
+		<input id="password" name="password"  value="" style="font-size:medium" type="text">
+        <input value="Login" style="font-size:large" type="submit">
+    </form>
+</div>
+<a href="URL">...</a>
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+    var host = "192.168.0.12";
+    var port = 8080;
+
+
+    function loadHistory() {
+		window.location = "C:\\Users\\ES7\\Desktop\\project\\atom\\web_hackaton\\src\\main\\resources\\static\\chat.html";
+        }
+		function loadHistory2() {
+        var settings = {
+            "crossDomain": true,
+            "url": "http://" + host + ":" + port + "/chat/chatnew",
+            "method": "GET",
+        }
+
+        $.ajax(settings).done(function (response) {
+            $("#history").html(response.replace(/\n/g, "<br />"))
+            $("#history").scrollTop($("#history")[0].scrollHeight);
+        }).fail(function (jqXHR, textStatus) {
+            console.log(jqXHR.status + " " + jqXHR.statusText + ". " + jqXHR.responseText);
+        });
+    }
+
+    function login() {
+        var name = $('#nameform').serialize();
+		localStorage["key"] = name;
+		var password = $('#nameform').serialize();
+
+        var settings = {
+            "method": "POST",
+            "crossDomain": true,
+            "url": "http://" + host + ":" + port + "/chat/login",
+            "data": name + "&" password
+        };
+
+        $.ajax(settings).done(function (response) {
+            loadHistory();
+			loadHistory2();
+        }).fail(function (jqXHR, textStatus) {
+            alert(jqXHR.status + " " + jqXHR.statusText + ". " + jqXHR.responseText);
+            console.log(jqXHR.status + " " + jqXHR.statusText + ". " + jqXHR.responseText);
+        });
+    }
+
+</script>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d14089c6-b525-4b2e-96b5-1174f4f8ef0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.5.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_micrometer_micrometer_core_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_annotations_api_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_actuator_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/httpchat.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/httpchat.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpchat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/ru/atom/chat/ChatApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/ru/atom/chat/ChatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/ru/atom/chat/ResoursWritter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/buffer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/loggins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/static/s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/atom/chat/ResoursWritter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/buffer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/loggins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/s.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_hackaton.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ResoursWritter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ru/atom/chat/ResoursWritter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="634" />
+    <option name="width" value="840" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpchat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.atom.chat.ChatApplication" />
+      <module name="httpchat.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.atom.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14089c6-b525-4b2e-96b5-1174f4f8ef0f" name="Default Changelist" comment="" />
+      <created>1559291523719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559291523719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="UI Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="2" weight="0.3295063" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ResoursWritter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/atom/chat/ChatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
